@@ -7,6 +7,7 @@ class Make_Audio:
     def __init__(self, path_to_csv) -> None:
         self.csv_file = path_to_csv
         self.data = self.csv_to_list()
+        self.pass_all = False
 
     def csv_to_list(self):
         # Converts a csv to a list with the data for producing number files
@@ -28,18 +29,23 @@ class Make_Audio:
         return data
 
     def run_command(self, file_name, text):
-        string_command = "pico2wave -l " + ct.pico_lang + " -w" + ct.folder_path + str(file_name) + ct.file_ext + " " + text
+        string_command = "pico2wave -l " + ct.pico_lang + " -w" + ct.audio_folder_path + str(file_name) + ct.file_ext + " " + text
 
         #Checks if file already exists
-        if os.path.exists(ct.folder_path + str(file_name) + ct.file_ext):
-            print("A file already exists for " + str(file_name) + ct.file_ext + ". Do you want to overwrite this? (y/n)")
+        if os.path.exists(ct.folder_path + str(file_name) + ct.file_ext) and not(self.pass_all):
+            print("A file already exists for " + str(file_name) + ct.file_ext + ". Do you want to overwrite this? (y/n), Over write all files (ya)")
             user_choose = input()
+            
+            if user_choose == "ya":
+                self.pass_all = True
+        
         else:
             user_choose = "y"
 
-        if user_choose == "Y" or user_choose == "y":
+        if user_choose == "Y" or user_choose == "y" or self.pass_all:
             os.system(string_command)
             print("Exported file " + str(file_name) + ct.file_ext)
+        
         return 0
 
     def list_to_audio(self):
@@ -48,9 +54,8 @@ class Make_Audio:
         for it in self.data:
             file_name, text = it
             self.run_command(file_name, text)
-        
+        self.pass_all = False
         return 0
-
 
 
 if __name__ == "__main__":
