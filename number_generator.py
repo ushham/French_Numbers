@@ -117,5 +117,5 @@ class Number_Gen:
 
 if __name__ == "__main__":
     x = Number_Gen(1, 9)
-    print(x.export_data())
+    x.export_data()
 
