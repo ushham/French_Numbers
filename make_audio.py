@@ -32,7 +32,7 @@ class Make_Audio:
         string_command = "pico2wave -l " + ct.pico_lang + " -w" + ct.audio_folder_path + str(file_name) + ct.file_ext + " " + text
 
         #Checks if file already exists
-        if os.path.exists(ct.folder_path + str(file_name) + ct.file_ext) and not(self.pass_all):
+        if os.path.exists(ct.audio_folder_path + str(file_name) + ct.file_ext) and not(self.pass_all):
             print("A file already exists for " + str(file_name) + ct.file_ext + ". Do you want to overwrite this? (y/n), Over write all files (ya)")
             user_choose = input()
             
@@ -67,5 +67,5 @@ if __name__ == "__main__":
     #Read given csv file
     csv_path = "/home/ohamilton/Documents/03_Programming/01_Python/French_Numbers/French_numbers.csv"
     audio_maker = Make_Audio(csv_path)
-    print(audio_maker.list_to_audio())
+    audio_maker.list_to_audio()
     # audio_maker.list_to_audio()
