@@ -55,6 +55,7 @@ class DataAnalysis:
         cols = self.max_number_answered()
 
         # TODO: check if this works with different starting indicies
+        # TODO: Make matrix a score between -1 and 1, where -1 is all correct, and 1 is all wrong
 
         error_mat = np.zeros((rows, cols))
 

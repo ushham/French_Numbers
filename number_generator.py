@@ -84,6 +84,8 @@ class Number_Gen:
         data_line = {
             "Start_time": self.start_time,
             "Run_time": run_time,
+            "Max_num": self.min_number, 
+            "Min_num": self.max_number,
             "Runs": []
         }
         
@@ -116,6 +118,6 @@ class Number_Gen:
         return 0
 
 if __name__ == "__main__":
-    x = Number_Gen(1, 9)
+    x = Number_Gen(1, 100)
     x.export_data()
 
