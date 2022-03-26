@@ -12,17 +12,44 @@ class Number_Gen:
     path = ct.audio_folder_path
     max_wrong = 5
 
-    def __init__(self, min_n, max_n) -> None:
+    def __init__(self, min_n, max_n, read_files=True, export_data=True) -> None:
         self.start_time = time.time()
         self.min_number = min_n
         self.max_number = max_n
+        self.play_file = read_files
+        self.export_d = export_data
+
+        if read_files:
+            self.num_arr = self.num_range_from_files()
+            self.max_number = max(self.num_arr)
+            self.min_number = min(self.num_arr)
+
+    def num_range_from_files(self):
+        num_files = os.listdir(self.path)
+        num_files = [x.split('.')[0] for x in num_files if x[-len(ct.file_ext):] == ct.file_ext]
+        return num_files
+
+    @staticmethod
+    def speak_text(number):
+        # espeak string
+        voice_type = ['+m2', '+m3','+m7', '+f1', '+f2', '+f3']
+        lang = 'fr-be'
+
+        rand_voice = lang + random.choice(voice_type)
+
+        string_parse = "espeak -v " + rand_voice + " " + str(number)
+        os.system(string_parse)
 
     def run_clip(self, number):
         user_guesses = list()
 
         #Run the clip
         file_path = self.path + '/' + str(number) + ct.file_ext
-        playsound(file_path)
+
+        if self.play_file:
+            playsound(file_path)
+        else:
+            self.speak_text(number)
 
         # Start timer to see how long reply takes
         time_start = time.time()
@@ -36,7 +63,11 @@ class Number_Gen:
             
             # User asks for a repeat play of audio
             if user_answer == "r":
-                playsound(file_path)
+                if self.play_file:
+                    playsound(file_path)
+                else:
+                    self.speak_text(number)
+
                 user_answer = -1
 
             else:
@@ -63,7 +94,10 @@ class Number_Gen:
 
         try:
             while True:
-                num = random.randint(self.min_number, self.max_number)
+                if self.play_file:
+                    num = int(random.choice(self.num_arr))
+                else:
+                    num = random.randint(self.min_number, self.max_number)
                 nums_asked.append(num)
                 user_guesses, time_taken, user_ans = self.run_clip(num)
             
@@ -86,10 +120,9 @@ class Number_Gen:
             "Run_time": run_time,
             "Max_num": self.min_number, 
             "Min_num": self.max_number,
+            "Speaker": "pico" if self.play_file else "espeak",
             "Runs": []
         }
-        
-        # json.dump(data_line, f)
 
         for row in range(len(self.nums_arr)):
             row_data = {
@@ -113,11 +146,12 @@ class Number_Gen:
         self.attemps_arr = np.array(attempts)
 
         # Publish the data
-        self.end_time = time.time()
-        self.publish_data()
+        if self.export_d:
+            self.end_time = time.time()
+            self.publish_data()
         return 0
 
 if __name__ == "__main__":
-    x = Number_Gen(1, 100)
+    x = Number_Gen(1, 200, read_files=False, export_data=True)
     x.export_data()
 
