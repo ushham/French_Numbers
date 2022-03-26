@@ -1,10 +1,10 @@
 import os
 import time
 import random
-from matplotlib.font_manager import json_dump
 import numpy as np
 import json
 from playsound import playsound
+import argparse
 
 import control as ct
 
@@ -152,6 +152,15 @@ class Number_Gen:
         return 0
 
 if __name__ == "__main__":
-    x = Number_Gen(1, 200, read_files=False, export_data=True)
+    parser = argparse.ArgumentParser(description='Run french numbers code.')
+    parser.add_argument('min_number', metavar='min_N', type=int, default=0, help='The min number that you will be asked')
+    parser.add_argument('max_number', metavar='max_N', type=int, default=100, help='The max number that you will be asked')
+    parser.add_argument('--r', metavar='--read_files', default=False, action='store', help='Allows you to choose if files are read, or generated (default)')
+    parser.add_argument('--e', metavar='--export_data', default=True, action='store', help='Choose whether data is exported (export is default)')
+
+
+    args = parser.parse_args()
+
+    x = Number_Gen(args.min_number, args.max_number, read_files=args.r, export_data=args.e)
     x.export_data()
 
