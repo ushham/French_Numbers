@@ -33,7 +33,7 @@ class Number_Gen:
     def speak_text(number):
         # espeak string
         voice_type = ['+m2', '+m3','+m7', '+f1', '+f2', '+f3']
-        lang = 'fr-be'
+        lang = ct.espeak_lang
 
         rand_voice = lang + random.choice(voice_type)
 

@@ -59,13 +59,6 @@ class Make_Audio:
 
 
 if __name__ == "__main__":
-    # Test for producing french numbers
-    # ls = [[1, "un"], [2, "deux"], [3, "trois"]]
-    # audio_maker = Make_Audio(ls)
-    # audio_maker.list_to_audio()
-
     #Read given csv file
-    csv_path = "/home/ohamilton/Documents/03_Programming/01_Python/French_Numbers/French_numbers.csv"
-    audio_maker = Make_Audio(csv_path)
+    audio_maker = Make_Audio(ct.csv_path)
     audio_maker.list_to_audio()
-    # audio_maker.list_to_audio()

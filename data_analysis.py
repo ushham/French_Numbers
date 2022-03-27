@@ -73,4 +73,4 @@ class DataAnalysis:
 if __name__ == "__main__":
     x = DataAnalysis()
     err_mat = x.make_error_mat()
-    visualisation.matrix_heat_map(err_mat)
+    visualisation.matrix_heat_map(err_mat, [0, 100], [0, 100])
