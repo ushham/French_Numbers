@@ -71,9 +71,14 @@ class Number_Gen:
                 user_answer = -1
 
             else:
-                user_answer = int(user_answer)
-                user_guesses.append(user_answer)
-                user_attempts += 1
+                try:
+                    user_answer = int(user_answer)
+                    user_guesses.append(user_answer)
+                    user_attempts += 1
+                
+                except:
+                    #Trigger if the user doesnt input a number that can be converted to an integer
+                    user_answer = -1
         
         if user_answer != number:
             print("Correct anwer was: " + str(number) + '\n')
@@ -136,6 +141,8 @@ class Number_Gen:
 
         with open(file_name, 'w') as f:
             json.dump(data_line, f, indent=4)
+        
+        print("Data published correctly")
         return 0
 
     def export_data(self):
@@ -153,10 +160,10 @@ class Number_Gen:
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Run french numbers code.')
-    parser.add_argument('min_number', metavar='min_N', type=int, default=0, help='The min number that you will be asked')
-    parser.add_argument('max_number', metavar='max_N', type=int, default=100, help='The max number that you will be asked')
+    parser.add_argument('--min_number', metavar='min_N', type=int, default=0, help='The min number that you will be asked')
+    parser.add_argument('--max_number', metavar='max_N', type=int, default=100, help='The max number that you will be asked')
     parser.add_argument('--r', metavar='--read_files', default=False, action='store', help='Allows you to choose if files are read, or generated (default)')
-    parser.add_argument('--e', metavar='--export_data', default=True, action='store', help='Choose whether data is exported (export is default)')
+    parser.add_argument('--e', metavar='--export_data', default=False, action='store', help='Choose whether data is exported (export is default)')
 
 
     args = parser.parse_args()

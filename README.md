@@ -10,7 +10,7 @@ The script `run_script.py`, the user has the following input choices:
 | ----------- | ------------------ | ------------- | --------------------------------------------------------------------- |
 | Help        | --h                | -             | Help message                                                          |
 | Min Number  | --mn               | 0             | Minimum number you will be asked                                      |
-| Max Number  | --max_number       | 100           | Maximum number you will be asked                                      |
+| Max Number  | --mx               | 100           | Maximum number you will be asked                                      |
 | Read files  | --r                | False         | The program will play files instead of generating number using espeak |
 | Export Data | --e                | True          | Exports the data to a json file                                       |
 
