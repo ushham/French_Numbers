@@ -72,6 +72,5 @@ The only visualisation that is currently produced is the error matrix, where the
 
 **Visualisations TODO:**
 
-- Percentage error of answers.
-
 - Distribution of questions asked user.
+- Print out interesting stats
