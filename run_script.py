@@ -1,5 +1,6 @@
 import argparse
 import number_generator
+import data_analysis
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Run french numbers code.')
@@ -12,3 +13,6 @@ if __name__ == "__main__":
 
     x = number_generator.Number_Gen(args.mn, args.mx, read_files=args.r, export_data=args.e)
     x.export_data()
+
+    y = data_analysis.DataAnalysis()
+    y.print_stats()
