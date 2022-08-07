@@ -1,7 +1,5 @@
-from asyncore import read
 import os
 import random
-
 
 def read_line(text):
     voice_type = ['+m2', '+m3','+m7', '+f1', '+f2', '+f3']
@@ -13,21 +11,32 @@ def read_line(text):
     os.system(string_parse)
     return 0
 
-def user_responce(line):
+def user_score(line):
     us = input()
 
     try:
         us = int(us)
     except:
         read_line(line)
-        us = user_responce(line)
+        us = user_score(line)
     
     if us > 5:
         us = 5
 
     return us
 
+def return_answer(line, answer):
+    answer = input()
+
+    if answer != ' ':
+        read_line(line)
+        return_answer(line, answer)
+    else:
+        print(str(answer))
+
+    return 0
+
 
 
 if __name__ == "__main__":
-    print(user_responce("nous sommes"))
+    print(return_answer("nous sommes"))

@@ -1,4 +1,4 @@
-﻿from,to
-nous sommes,we are
-we are,nous sommes
-vous êtes,ye are
+﻿from,to,ask_lang
+nous sommes,we are,fr
+we are,nous sommes,en
+vous êtes,ye are,fr

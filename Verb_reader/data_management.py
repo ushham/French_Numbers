@@ -8,17 +8,21 @@ import control as ct
 def read_database():
     return pd.read_csv(ct.database_loc)
 
-def read_new_data(new_file, database):
+def save_database(df):
+    df.to_csv(ct.database_loc, index=False)
+    return 0
+
+def read_new_data(new_file=ct.new_data, database=ct.database_loc):
     # This function takes a csv that contains the new verbs and adds the verbs to the existing database
     new_data = pd.read_csv(new_file)
     data_base = pd.read_csv(database)
 
     # Copy the column names and populate the new data with the same columns
     cols = data_base.columns
-    recall_name = cols[2]
-    recall_num = cols[3]
-    ef_score = cols[4]
-    review_date = cols[5]
+    recall_name = cols[3]
+    recall_num = cols[4]
+    ef_score = cols[5]
+    review_date = cols[6]
 
     new_data[recall_name] = 0
     new_data[recall_num] = 0
