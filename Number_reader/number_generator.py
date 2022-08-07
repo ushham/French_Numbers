@@ -6,7 +6,7 @@ import json
 from playsound import playsound
 import argparse
 
-import control as ct
+import Number_reader.control as ct
 
 class Number_Gen:
     path = ct.audio_folder_path

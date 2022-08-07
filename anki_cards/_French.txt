@@ -1,0 +1,1266 @@
+I have	"J'ai"
+you have	tu as / vous aves
+he/she has	ill/elle a
+we have	nous avons
+they have	ils/elles ont
+I am&nbsp;	je suis
+you are	tu es / vous êtes
+he/she is	il/elle est
+we are	nous sommes
+they are	ils/elles sont
+round trip	aller retour
+one way	aller simple (sampl)
+delay	retard (re-tar)
+helmet	le casque (cask)
+cyclist	le cycliste (cee-clest)
+bike	le vélo
+light	la lampe
+slope	la côte
+chain (bike)	la chaîne
+climb (bike)	la montée (mont-ee)
+puncture	la crevason (cray-va-son)
+I do not understand	Je ne comprends pas (je nu compron pa)
+speak slowly	parlez lentement (parlay lan-te-mon)
+Repeat	Répétez (repeat-e)
+can I pay with a card	Est-ce que je paux payer avec un carte
+how much does it cost	Combien ça coûte
+I go	je vais (vay)
+you go	tu vas/ vous allez (allay)
+he/she goes	il/elle va
+we go	nous allons
+they go	ils/elles vont
+i do	je fais (fay)
+you do	tu fais/vous faites (fay-te)
+he/she does	il/elle fait (fay)
+we do	nous faisons (fva-son)
+they do	ils/elles font (fo-en)
+I say	je dis (de)
+you say	tu dis/ vous dites (di-te)
+he/she says	il/elle dit
+we say	nous disons (de-son)
+they say	ils/elles disent (diis)
+11	onze
+12	douze
+13	treize
+14	quat-orze
+15	quinze (kaans)
+16	seize (say-ze)
+17	dix-sept
+18	dix-huit
+19	dix-neuf
+20	vingt
+30	trente (traunt)
+40	quarante (ka-ront)
+50	cinquante (sank ont)
+60	soixante (swa-sont)
+70	Septante
+80	Quartre vingt
+90	Nonante
+100	cent (sa-n)
+i dont speak much franch	je ne parl pas boucoup de francais
+how do you say that in french	comment dire ca en francais? (komon deer sa)
+what does that mean	"qu'wst-ce que ca veut dire (kess kuh sa vuh deer)"
+can you speak more slowly please	pouvez-vous parlez plus lentement sil vous plait?
+can you please write that down	"est ce que vous pouvez l'ecrire s'il vous plait"
+i take	je prends (praw-n)
+you take	tu prends / vous prenez (pren-e)
+he/she takes	il/elle prend
+we take	nous prenons (prawn-on)
+they take	ils/elles prennents (pren)
+Monday	lundi (lun-de)
+Tuesday	mardi
+wednesday	Mercredi (mec-ra-de)
+Thursday	Jeudi
+Friday	Vendredi (von-dra-de)
+saturday	samedi
+sunday	dimanche
+I like	"j'aime"
+you like	tu aimes / vous aimez (aim-e)
+he/she likes	il/elle aime
+we like	nous aimons
+they like	ils/elles aiment (aime)
+I do	je fais
+I know	Je Sais (say)
+you know	tu sais / vous savez (savay)
+he/she knows	il/elle sait
+we know	nous savons
+they know	ils/elles savent (sav)
+its my fault	au temps pour moi (au tamp pour moi)
+What time is it	Quelle heure est il? (et il)
+ten mins past one	une heure dix
+a half	un demi (dumi)
+a quater	un quart (un car)
+quater past one	une heure et quart
+twenty to two	deux heure moins vingt (mwa)
+quater to two	deux heure moin le quart
+I can	je peux (pu)
+you can	tu peux / vous pouvez (pu-vay)
+he/she can	il/elle peut (pu)
+we can	nous pouvons (pu-von)
+they can	ils/elles peuvent (pu-v)
+today	"aujourd'hui"
+this morning	ce martain
+this afternoon	cet apres-midi
+this evening	ce soir (swa)
+i want	je veux
+you want	tu veux / vous voulez (vou-lay)
+he/she wants	il/elle vout
+we want	nous voulons
+they want	ils/els voulent (vou-l)
+I learn	"j'apprends (a-prwan)"
+you learn	tu apprends / vous apprenez (apren-ay)
+we learn	nous apprenons
+they are learning	ils/elles apprennent (ap-pren)
+i play	je joue
+you play	tu joues / vous jouenz
+he she plays	il/elle joue
+we play	nous jouons
+they play	ils elles jouent
+i watch	je regarde
+you watch	tu regardes / vous regardez
+he/she watches	il/elle regarde
+we watch	nous regardons
+they watch	ils / elles regardent
+i read	je lis
+you read	tu lis / vous lisent (lis)
+he/she reads	il/elle lit
+we read	nous lisons
+they read	ils/elles lisent
+i sleep&nbsp;	je dors
+you sleep	tu dors / vous dormez
+he/she sleeps	il/elle dort
+we sleep	nous dormons
+they sleep	ils/elles dorment
+i listen	"j'ecoute"
+you listen	tu ecoutes / vous ecoutez
+he/she listens	il/elle ecoute
+we listen	nous ecoutons
+they listen	ils/elles ecoutent
+My (x3)	Mon&nbsp; &nbsp; (when refering to male noun)&nbsp;<div>Ma&nbsp; &nbsp; &nbsp; (female noun)</div><div>Mes&nbsp; &nbsp; (plural)</div>
+your (x3)	Ton&nbsp; &nbsp; &nbsp;(singular male noun)<div>ta&nbsp; &nbsp; &nbsp; &nbsp; (singular female noun)</div><div>tes&nbsp; &nbsp; &nbsp; (plural)</div>
+his / her / its (x3)	son&nbsp; &nbsp; &nbsp;(singular male noun)<div>sa&nbsp; &nbsp; &nbsp; &nbsp; (singular female noun)</div><div>ses&nbsp; &nbsp; &nbsp; (plural)</div>
+your formal (x3)	votre&nbsp; &nbsp; &nbsp; &nbsp; (singular male noun)<div>votre&nbsp; &nbsp; &nbsp; &nbsp; (singular female noun)</div><div>vos&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (plural)</div>
+our	notre&nbsp; &nbsp; &nbsp; &nbsp; (singular male noun)<div>notre&nbsp; &nbsp; &nbsp; &nbsp; (singular female noun)<div>nos&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (plural)</div></div>
+their (x3)	leur&nbsp; &nbsp; &nbsp; &nbsp; (singular male noun)<div>leur&nbsp; &nbsp; &nbsp; &nbsp; (singular female noun)</div><div>leurs&nbsp; &nbsp; &nbsp; (plural)</div>
+I come (from)	je veins
+you come (from)	tu viens / vous venez (ven-ay)
+he / she comes	il/ elle vient (vien)
+we come	nous venons
+they come from	ils/elles viennent (vien)
+I have to	je dois (dwar)
+you have to	tu dois / vous devez (du-vay)
+he / she has to	il/elle doit (dwa)
+we have to	nous devons (du-von)
+they have to	ils elles doivent (dwarv)
+This/ That (singluar)	ce (cet if word starts with vowel) (m) / cette (f)
+these/those plural	ces
+when	quand
+why	pourpuoi
+who	qui
+where	ou
+what	quelle
+behind	derriere
+without	sans
+now	maintenant
+i see	je vois
+you see	tu vois / vous voyez
+he she sees	il / elle voit
+we see	nous voyons
+they see	ils elles voient
+January	Janvier
+Febuary	Fevrier
+march	mars
+april	avril
+may	mai
+june	juin
+july	julliet (juy-ey)
+august	août (oout)
+september	septembre
+october	octobre
+november	novembre
+december	decembre
+i took	"j'ai pris"
+you took	tu as pris / vous avez pris
+we took	nous avons pris
+they took	ils ont pris
+i went	je suis allé
+you went	tu es allé / vous etes allé
+we went	nous sommes allé
+they went	ils sont allé
+i have had	"j'ai eu"
+you have had	tu as eu / vous avez eu
+we have had	nous avons eu
+he she has had	il elle a eu
+they have had	ils / elles ont eu
+I drank	"j'ai bu"
+you drank	tu as bu / vous avez bu
+he she drank	il / elle a bu
+we drank	nous avons bu
+they drank	ils elles ont bu
+i said / told	"j'ai dit"
+you said / told	tu as dit / vous avez dit
+we said / told	nous avons dit
+he she said / told	il elle a dit
+they said / told	ils elles ont dit
+About	environ
+"J'ai"	I have
+tu as / vous aves	you have
+ill/elle a	he/she has
+nous avons	we have
+ils/elles ont	they have
+je suis	I am&nbsp;
+tu es / vous êtes	you are
+il/elle est	he/she is
+nous sommes	we are
+ils/elles sont	they are
+aller retour	round trip
+aller simple (sampl)	one way
+retard (re-tar)	delay
+le casque (cask)	helmet
+le cycliste (cee-clest)	cyclist
+le vélo	bike
+la lampe	light
+la côte	slope
+la chaîne	chain (bike)
+la montée (mont-ee)	climb (bike)
+la crevason (cray-va-son)	puncture
+Je ne comprends pas (je nu compron pa)	I do not understand
+parlez lentement (parlay lan-te-mon)	speak slowly
+Répétez (repeat-e)	Repeat
+Est-ce que je paux payer avec un carte	can I pay with a card
+Combien ça coûte	how much does it cost
+je vais (vay)	I go
+tu vas/ vous allez (allay)	you go
+il/elle va	he/she goes
+nous allons	we go
+ils/elles vont	they go
+je fais (fay)	i do
+tu fais/vous faites (fay-te)	you do
+il/elle fait (fay)	he/she does
+nous faisons (fva-son)	we do
+ils/elles font (fo-en)	they do
+je dis (de)	I say
+tu dis/ vous dites (di-te)	you say
+il/elle dit	he/she says
+nous disons (de-son)	we say
+ils/elles disent (diis)	they say
+onze	11
+douze	12
+treize	13
+quat-orze	14
+quinze (kaans)	15
+seize (say-ze)	16
+dix-sept	17
+dix-huit	18
+dix-neuf	19
+vingt	20
+trente (traunt)	30
+quarante (ka-ront)	40
+cinquante (sank ont)	50
+soixante (swa-sont)	60
+Septante	70
+Quartre vingt	80
+Nonante	90
+cent (sa-n)	100
+je ne parl pas boucoup de francais	i dont speak much franch
+comment dire ca en francais? (komon deer sa)	how do you say that in french
+"qu'wst-ce que ca veut dire (kess kuh sa vuh deer)"	what does that mean
+pouvez-vous parlez plus lentement sil vous plait?	can you speak more slowly please
+"est ce que vous pouvez l'ecrire s'il vous plait"	can you please write that down
+je prends (praw-n)	i take
+tu prends / vous prenez (pren-e)	you take
+il/elle prend	he/she takes
+nous prenons (prawn-on)	we take
+ils/elles prennents (pren)	they take
+lundi (lun-de)	Monday
+mardi	Tuesday
+Mercredi (mec-ra-de)	wednesday
+Jeudi	Thursday
+Vendredi (von-dra-de)	Friday
+samedi	saturday
+dimanche	sunday
+"j'aime"	I like
+tu aimes / vous aimez (aim-e)	you like
+il/elle aime	he/she likes
+nous aimons	we like
+ils/elles aiment (aime)	they like
+je fais	I do
+Je Sais (say)	I know
+tu sais / vous savez (savay)	you know
+il/elle sait	he/she knows
+nous savons	we know
+ils/elles savent (sav)	they know
+au temps pour moi (au tamp pour moi)	its my fault
+Quelle heure est il? (et il)	What time is it
+une heure dix	ten mins past one
+un demi (dumi)	a half
+un quart (un car)	a quater
+une heure et quart	quater past one
+deux heure moins vingt (mwa)	twenty to two
+deux heure moin le quart	quater to two
+je peux (pu)	I can
+tu peux / vous pouvez (pu-vay)	you can
+il/elle peut (pu)	he/she can
+nous pouvons (pu-von)	we can
+ils/elles peuvent (pu-v)	they can
+"aujourd'hui"	today
+ce martain	this morning
+cet apres-midi	this afternoon
+ce soir (swa)	this evening
+je veux	i want
+tu veux / vous voulez (vou-lay)	you want
+il/elle vout	he/she wants
+nous voulons	we want
+ils/els voulent (vou-l)	they want
+"j'apprends (a-prwan)"	I learn
+tu apprends / vous apprenez (apren-ay)	you learn
+nous apprenons	we learn
+ils/elles apprennent (ap-pren)	they are learning
+je joue	i play
+tu joues / vous jouenz	you play
+il/elle joue	he she plays
+nous jouons	we play
+ils elles jouent	they play
+je regarde	i watch
+tu regardes / vous regardez	you watch
+il/elle regarde	he/she watches
+nous regardons	we watch
+ils / elles regardent	they watch
+je lis	i read
+tu lis / vous lisent (lis)	you read
+il/elle lit	he/she reads
+nous lisons	we read
+ils/elles lisent	they read
+je dors	i sleep&nbsp;
+tu dors / vous dormez	you sleep
+il/elle dort	he/she sleeps
+nous dormons	we sleep
+ils/elles dorment	they sleep
+"j'ecoute"	i listen
+tu ecoutes / vous ecoutez	you listen
+il/elle ecoute	he/she listens
+nous ecoutons	we listen
+ils/elles ecoutent	they listen
+Mon&nbsp; &nbsp; (when refering to male noun)&nbsp;<div>Ma&nbsp; &nbsp; &nbsp; (female noun)</div><div>Mes&nbsp; &nbsp; (plural)</div>	My (x3)
+Ton&nbsp; &nbsp; &nbsp;(singular male noun)<div>ta&nbsp; &nbsp; &nbsp; &nbsp; (singular female noun)</div><div>tes&nbsp; &nbsp; &nbsp; (plural)</div>	your (x3)
+son&nbsp; &nbsp; &nbsp;(singular male noun)<div>sa&nbsp; &nbsp; &nbsp; &nbsp; (singular female noun)</div><div>ses&nbsp; &nbsp; &nbsp; (plural)</div>	his / her / its (x3)
+votre&nbsp; &nbsp; &nbsp; &nbsp; (singular male noun)<div>votre&nbsp; &nbsp; &nbsp; &nbsp; (singular female noun)</div><div>vos&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (plural)</div>	your formal (x3)
+notre&nbsp; &nbsp; &nbsp; &nbsp; (singular male noun)<div>notre&nbsp; &nbsp; &nbsp; &nbsp; (singular female noun)<div>nos&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (plural)</div></div>	our
+leur&nbsp; &nbsp; &nbsp; &nbsp; (singular male noun)<div>leur&nbsp; &nbsp; &nbsp; &nbsp; (singular female noun)</div><div>leurs&nbsp; &nbsp; &nbsp; (plural)</div>	their (x3)
+je veins	I come (from)
+tu viens / vous venez (ven-ay)	you come (from)
+il/ elle vient (vien)	he / she comes
+nous venons	we come
+ils/elles viennent (vien)	they come from
+je dois (dwar)	I have to
+tu dois / vous devez (du-vay)	you have to
+il/elle doit (dwa)	he / she has to
+nous devons (du-von)	we have to
+ils elles doivent (dwarv)	they have to
+ce (cet if word starts with vowel) (m) / cette (f)	This/ That (singluar)
+ces	these/those plural
+quand	when
+pourpuoi	why
+qui	who
+ou	where
+quelle	what
+derriere	behind
+sans	without
+maintenant	now
+je vois	i see
+tu vois / vous voyez	you see
+il / elle voit	he she sees
+nous voyons	we see
+ils elles voient	they see
+Janvier	January
+Fevrier	Febuary
+mars	march
+avril	april
+mai	may
+juin	june
+julliet (juy-ey)	july
+août (oout)	august
+septembre	september
+octobre	october
+novembre	november
+decembre	december
+"j'ai pris"	i took
+tu as pris / vous avez pris	you took
+nous avons pris	we took
+ils ont pris	they took
+je suis allé	i went
+tu es allé / vous etes allé	you went
+nous sommes allé	we went
+ils sont allé	they went
+"j'ai eu"	i have had
+tu as eu / vous avez eu	you have had
+nous avons eu	we have had
+il elle a eu	he she has had
+ils / elles ont eu	they have had
+"j'ai bu"	I drank
+tu as bu / vous avez bu	you drank
+il / elle a bu	he she drank
+nous avons bu	we drank
+ils elles ont bu	they drank
+"j'ai dit"	i said / told
+tu as dit / vous avez dit	you said / told
+nous avons dit	we said / told
+il elle a dit	he she said / told
+ils elles ont dit	they said / told
+environ	About
+I give	je donne
+je donne	I give
+you give	tu donnes, vous donnez
+tu donnes, vous donnez	you give
+we give	Nous donons
+Nous donons	we give
+they give	ils donent
+ils donent	they give
+I gave	"j'ai donné (donn-ee)"
+"j'ai donné (donn-ee)"	I gave
+you gave	vous avez donné
+vous avez donné	you gave
+we gave	nous avons donné
+nous avons donné	we gave
+I recieve	je reçois
+je reçois	I recieve
+you recieve	tu reçois / vous recevez
+tu reçois / vous recevez	you recieve
+we recieve	nous recevons
+nous recevons	we recieve
+they recieve	ils/elles reçoivent (res-wawrv)
+ils/elles reçoivent (res-wawrv)	they recieve
+To recieve	pour recevoiur
+pour recevoiur	To recieve
+I collect	je collecte
+je collecte	I collect
+you collect	tu collect, vous collectez
+tu collect, vous collectez	you collect
+we collect	nous collectons
+nous collectons	we collect
+I think	je pense (ponce)
+je pense (ponce)	I think
+we think	nous pensons
+nous pensons	we think
+you think	tu pense/ vous ponsez
+tu pense/ vous ponsez	you think
+letter e	uu (ew)
+uu (ew)	letter e
+letter G	zjee
+zjee	letter G
+letter H	ash
+ash	letter H
+Letter I	ee
+ee	Letter I
+letter J	zgee
+zgee	letter J
+letter K	kaa
+kaa	letter K
+letter O	ooh
+ooh	letter O
+Letter R	airrr
+airrr	Letter R
+Letter U	oou
+oou	Letter U
+Letter W	double ve
+double ve	Letter W
+Letter Y	egreck
+egreck	Letter Y
+I was	"j'etais (jay etay)"
+"j'etais (jay etay)"	I was
+You were	vous étiez (et-ee-ay)
+vous étiez (et-ee-ay)	You were
+we were	nous etions
+nous etions	we were
+They were	ils/elles étaient (et-ay)
+ils/elles étaient (et-ay)	They were
+I wait	"j'attends"
+"j'attends"	I wait
+You wait	tu attends/ vous attendez
+tu attends/ vous attendez	You wait
+We wait	nous attendons
+nous attendons	We wait
+i wish	je souhaite (swaite)
+je souhaite (swaite)	i wish
+you wish	tu souhaires/vous souhaitez
+tu souhaires/vous souhaitez	you wish
+we wish	nous souhaitons
+nous souhaitons	we wish
+they wish	ils/elles souhaitent (swaite)
+ils/elles souhaitent (swaite)	they wish
+Are you in the queue	Est-ce que vous faites la queue?
+Est-ce que vous faites la queue?	Are you in the queue
+Bed room	la chambre
+la chambre	Bed room
+The Rooms	La Pièces
+La Pièces	The Rooms
+Living room	Le Salon / Le Séjour
+Le Salon / Le Séjour	Living room
+The Micro wave	Le Micro-ondes
+Le Micro-ondes	The Micro wave
+Everywhere	Partout
+Partout	Everywhere
+Booke Shelf	La Biblioteque
+La Biblioteque	Booke Shelf
+More than one	Plusieuns
+Plusieuns	More than one
+The floor	Le Sol
+Le Sol	The floor
+Sofa	Le Canapé
+Le Canapé	Sofa
+Arm chair	Le Fauteuil (fout-aii)
+Le Fauteuil (fout-aii)	Arm chair
+Dining room	La Salle à manger
+La Salle à manger	Dining room
+Chair	La Chaise
+La Chaise	Chair
+The bed	La Chambre
+La Chambre	The bed
+Warddrobe	"L'armoire"
+"L'armoire"	Warddrobe
+The window	La Fenêtre
+La Fenêtre	The window
+The door	La Porte
+La Porte	The door
+Bath	La baignoire
+La baignoire	Bath
+Books	Les Livres
+Les Livres	Books
+Curtains	Les rideaux
+Les rideaux	Curtains
+"""too bad"""	Mais tant pis
+Mais tant pis	"""too bad"""
+I sell	Je vends
+Je vends	I sell
+You sell	tu vends / vous Vendez
+tu vends / vous Vendez	You sell
+We sell	Nous Vendons
+Nous Vendons	We sell
+they sell	ils/elles vendent
+ils/elles vendent	they sell
+I go down	Je descends
+Je descends	I go down
+you go down	tu descend / vous descendez
+tu descend / vous descendez	you go down
+we go down	nous descendons
+nous descendons	we go down
+I sold	"j'ai vendu"
+"j'ai vendu"	I sold
+I went down	Je suis descendu
+Je suis descendu	I went down
+How do you say...	Common dit-on
+Common dit-on	How do you say...
+Could you repeat	Pourriez vous répéter
+Pourriez vous répéter	Could you repeat
+How do you pronounce	"comment est-ce qu'on prononce (est ku'on)"
+"comment est-ce qu'on prononce (est ku'on)"	How do you pronounce
+Old	Vieux
+Vieux	Old
+On	Sur
+Sur	On
+Under	Sous
+Sous	Under
+In front	Devant
+Devant	In front
+in	Dans
+Dans	in
+Between	Entre
+Entre	Between
+Next to	A côté
+A côté	Next to
+to the right	à droite
+à droite	to the right
+To the left	à gauche
+à gauche	To the left
+Above	Au dessus
+Au dessus	Above
+Below	au dessous
+au dessous	Below
+In the middle	Au milieu
+Au milieu	In the middle
+In the corner	Dans un coin
+Dans un coin	In the corner
+the rent	le loyer
+le loyer	the rent
+I loose	Je perds (pear)
+Je perds (pear)	I loose
+You loose	tu perdes / vous perdez (peard-ay)
+tu perdes / vous perdez (peard-ay)	You loose
+we loose	Nous perdons
+Nous perdons	we loose
+They loose	Ils / elles perdent (pear-d)
+Ils / elles perdent (pear-d)	They loose
+To return&nbsp;	Rendre
+Rendre	To return&nbsp;
+I hear	"J'entends"
+"J'entends"	I hear
+you hear	Tu entends / vous entendez
+Tu entends / vous entendez	you hear
+True	Vrai
+Vrai	True
+How	comment
+comment	How
+Cupboard	Armoire
+Armoire	Cupboard
+Cupboard on the wall	Placard
+Placard	Cupboard on the wall
+Cooker	Un Cuisinière
+Un Cuisinière	Cooker
+A bin	Une Poubelle
+Une Poubelle	A bin
+A pan	Une Poêle [pwal]
+Une Poêle [pwal]	A pan
+Sink	Un évier
+Un évier	Sink
+I swim	je nage [naj]
+je nage [naj]	I swim
+you swim	vous nagez
+vous nagez	you swim
+we swim	nous nageons [nag-on]
+nous nageons [nag-on]	we swim
+to check	cocher [co-shey]
+cocher [co-shey]	to check
+To guess	deviner [du-vin-ay]
+deviner [du-vin-ay]	To guess
+Against	Contre [cont-re]
+Contre [cont-re]	Against
+mouse	une souris [sou-ree]
+une souris [sou-ree]	mouse
+Oven	le four
+le four	Oven
+the wall	le mur [meur]
+le mur [meur]	the wall
+furniture	un meuble
+un meuble	furniture
+job/proffession	le métier
+le métier	job/proffession
+I put	je mets [mae]
+je mets [mae]	I put
+you put	vous mettez
+vous mettez	you put
+we put	nous mettons
+nous mettons	we put
+Head	La tête
+La tête	Head
+Nose	Le nez
+Le nez	Nose
+The eye	"L'œil"
+"L'œil"	The eye
+The ear	"L'oreille"
+"L'oreille"	The ear
+The mouth	La bouche
+La bouche	The mouth
+Comic strip	Bande dessinée
+Bande dessinée	Comic strip
+So	Donc
+Donc	So
+Desk	bureau
+bureau	Desk
+A tool/ work implement	un outil
+un outil	A tool/ work implement
+in the past (formerly)	autrefois
+autrefois	in the past (formerly)
+heater	chauffage
+chauffage	heater
+veg garden	un jardin potager
+un jardin potager	veg garden
+orchard	verger
+verger	orchard
+I go out	Je sors
+Je sors	I go out
+you go out	vous sortez
+vous sortez	you go out
+we go out	nous sortons
+nous sortons	we go out
+I spend (time)	je passe
+je passe	I spend (time)
+you spend (time)	vous passez
+vous passez	you spend (time)
+we spend (time)	nous passons
+nous passons	we spend (time)
+I discover/find	je découvre
+je découvre	I discover/find
+you find/discover	vous découvrez
+vous découvrez	you find/discover
+we find/discover	nous découvrons
+nous découvrons	we find/discover
+I found/discovered	"j'ai découvert"
+"j'ai découvert"	I found/discovered
+I get up	Je me lève
+Je me lève	I get up
+you get up	tu te lèves
+tu te lèves	you get up
+he / she gets up	il / elle se lève
+il / elle se lève	he / she gets up
+we get up	nous nous levons
+nous nous levons	we get up
+you get up (formal)	vous vous levez
+vous vous levez	you get up (formal)
+they get up	ils/elles se lèvent
+ils/elles se lèvent	they get up
+I got up	je me suis levé
+je me suis levé	I got up
+you got up (informal)	"tu t'es levé"
+"tu t'es levé"	you got up (informal)
+he / she got up	"il / elle s'est levé"
+"il / elle s'est levé"	he / she got up
+we got up	nous nous sommes levés
+nous nous sommes levés	we got up
+you got up (formal)	vous vous êtes levé
+vous vous êtes levé	you got up (formal)
+they got up	ils / elles se sont levé(e)s
+ils / elles se sont levé(e)s	they got up
+I share	Je partage
+Je partage	I share
+you share	tu partages / vous partagez
+tu partages / vous partagez	you share
+we share	nous partagons
+nous partagons	we share
+I start	je commence
+je commence	I start
+you start	tu commenes / vous commencez
+tu commenes / vous commencez	you start
+we start	nous commençons
+nous commençons	we start
+i was doing / did (imparfait)	je faisais
+je faisais	i was doing / did (imparfait)
+you were doing / did (imparfait)	tu faisais / vous faisiez
+tu faisais / vous faisiez	you were doing / did (imparfait)
+we were doing / did (imparfait)	nous faisions
+nous faisions	we were doing / did (imparfait)
+I went (imparfait)	"j'allais"
+"j'allais"	I went (imparfait)
+you went (imparfait)	tu allais / vous alliez
+tu allais / vous alliez	you went (imparfait)
+we went (imparfait)	nous allions
+nous allions	we went (imparfait)
+I had (imparfait)	"J'avais"
+"J'avais"	I had (imparfait)
+you had (imparfait)	tu avais / vous aviez
+tu avais / vous aviez	you had (imparfait)
+we had (imparfait)	nous avions (imparfait)
+nous avions (imparfait)	we had (imparfait)
+I leave	je pars
+je pars	I leave
+you leave	tu pars / vous partez
+tu pars / vous partez	you leave
+we leave	nous partons
+nous partons	we leave
+I left (PC)	je suis parti
+je suis parti	I left (PC)
+you left (PC)	tu es / vous êtes parti(s)
+tu es / vous êtes parti(s)	you left (PC)
+we left	nous sommes partis
+nous sommes partis	we left
+they left (PC)	ils / elles sont partis
+ils / elles sont partis	they left (PC)
+I left (imparfait)	je partais
+je partais	I left (imparfait)
+you left / were leaving (imparfait)	tu partias / vous partiez
+tu partias / vous partiez	you left / were leaving (imparfait)
+we were leaving (imparfait)	nous partions
+nous partions	we were leaving (imparfait)
+Island	île
+île	Island
+Homework	devoir
+devoir	Homework
+almost	presque (pre-sk)
+presque (pre-sk)	almost
+heating	Chauffage
+Chauffage	heating
+How much is the rent	le loyer fait combien
+le loyer fait combien	How much is the rent
+connected	branché
+branché	connected
+Little bits	petits trucs
+petits trucs	Little bits
+empty	vide
+vide	empty
+Full	plein(e)
+plein(e)	Full
+Bird	"L'oiseau"
+"L'oiseau"	Bird
+Steel	Acier
+Acier	Steel
+Luck	La chance
+La chance	Luck
+A place	Un endroit
+Un endroit	A place
+A quay	Un quai
+Un quai	A quay
+False	Faux
+Faux	False
+To equipt	Équipé
+Équipé	To equipt
+A team	Une équipe
+Une équipe	A team
+Metres squared	Metres carrés (car-ree)
+Metres carrés (car-ree)	Metres squared
+Before	Avant
+Avant	Before
+Already	Déjà
+Déjà	Already
+Almost	Presque
+Presque	Almost
+Hot	Chaud
+Chaud	Hot
+Word	Mot
+Mot	Word
+but	mais
+mais	but
+out	dehors
+dehors	out
+each	chaque
+chaque	each
+hand	main
+main	hand
+legs	jambre
+jambre	legs
+help	aider
+aider	help
+same	même
+même	same
+if	si
+si	if
+country	pays
+pays	country
+food	nourriture
+nourriture	food
+tree	arbre
+arbre	tree
+arms	bras
+bras	arms
+body	corps
+corps	body
+boyfriend/girlfriend	le petit ami
+le petit ami	boyfriend/girlfriend
+clothing	les vêtements
+les vêtements	clothing
+yesterday	hier
+hier	yesterday
+conjugate -er verbs	Given x-er:<br>je x-e<br>tu x-es<br>il/elles x-e<br>nous x-ons<br>vous x-ez<br>ils/elles x-ent
+Given x-er:<br>je x-e<br>tu x-es<br>il/elles x-e<br>nous x-ons<br>vous x-ez<br>ils/elles x-ent	conjugate -er verbs
+conjugate -ir verbs	Given x-ir:<br>je x-is<br>tu x-is<br>il/elles x-it<br>nous x-issons<br>vous x-issez<br>ils/elles x-issent
+Given x-ir:<br>je x-is<br>tu x-is<br>il/elles x-it<br>nous x-issons<br>vous x-issez<br>ils/elles x-issent	conjugate -ir verbs
+conjugate -re verb	Given x-re:<br>je x-s<br>tu x-s<br>il/elles x-<br>nous x-ons<br>vous x-ez<br>ils/elles x-ent
+Given x-re:<br>je x-s<br>tu x-s<br>il/elles x-<br>nous x-ons<br>vous x-ez<br>ils/elles x-ent	conjugate -re verb
+conjugate reflexive se- verb	Given se x:<br>je me ...<br>tu te ...<br>il/elle se...<br>nous nous ...<br>vous vous ...<br>ils/elles se ...
+Given se x:<br>je me ...<br>tu te ...<br>il/elle se...<br>nous nous ...<br>vous vous ...<br>ils/elles se ...	conjugate reflexive se- verb
+Conjugate imparfait -er	Given x-er:<br>je x-ais<br>tu x-ais<br>il/elles x-ait<br>nous x-ions<br>vous x-iez<br>ils/elles x-aient
+Given x-er:<br>je x-ais<br>tu x-ais<br>il/elles x-ait<br>nous x-ions<br>vous x-iez<br>ils/elles x-aient	Conjugate imparfait -er
+Conjugate imparfait -ir	Given x-ir:<br>je x-issais<br>tu x-issais<br>il/elles x-issait<br>nous x-issions<br>vous x-issiez<br>ils/elles x-issaient
+Given x-ir:<br>je x-issais<br>tu x-issais<br>il/elles x-issait<br>nous x-issions<br>vous x-issiez<br>ils/elles x-issaient	Conjugate imparfait -ir
+Conjugate imparfait -re	Given x-re:<br>je x-ais<br>tu x-ais<br>il/elles x-ait<br>nous x-ions<br>vous x-iez<br>ils/elles x-aient
+Given x-re:<br>je x-ais<br>tu x-ais<br>il/elles x-ait<br>nous x-ions<br>vous x-iez<br>ils/elles x-aient	Conjugate imparfait -re
+Spelling rules for passe compose verbs	-er -&gt; é<br>-ir -&gt; i<br>-re -&gt; u
+-er -&gt; é<br>-ir -&gt; i<br>-re -&gt; u	Spelling rules for passe compose verbs
+some / few	quelques
+quelques	some / few
+never	jamais
+jamais	never
+i try	"j'essaie"
+"j'essaie"	i try
+you try	tu essaies, vous essayez
+tu essaies, vous essayez	you try
+we try	nous essayons
+nous essayons	we try
+i send	"j'envoie"
+"j'envoie"	i send
+you send	tu envoyes / vous envoyez
+tu envoyes / vous envoyez	you send
+Bus stop	"L'arrêt de bus"
+"L'arrêt de bus"	Bus stop
+Forbidden	Interdit
+Interdit	Forbidden
+I know/am framilar with	Je connais
+Je connais	I know/am framilar with
+you know/are framilar with	tu connais / vous connaissez
+tu connais / vous connaissez	you know/are framilar with
+we know / are framilar with	nous connaissons
+nous connaissons	we know / are framilar with
+The brain	Le cerveau
+Le cerveau	The brain
+You are right	Vous avez raison
+Vous avez raison	You are right
+Better	Meilleures
+Meilleures	Better
+Comma	Virgule (ver-guel)
+Virgule (ver-guel)	Comma
+"9m ""by"" 2 m"	9m Sur 2m
+9m Sur 2m	"9m ""by"" 2 m"
+Band aid	Sparadrap
+Sparadrap	Band aid
+A spray	Une goutte
+Une goutte	A spray
+Sissors	Ciseaux
+Ciseaux	Sissors
+To measure	Mesurer
+Mesurer	To measure
+Before going to bed	Avant de vous couchez
+Avant de vous couchez	Before going to bed
+Fruits	Fruits (frwee)
+Fruits (frwee)	Fruits
+Sitting	Assis(e) (a-see)
+Assis(e) (a-see)	Sitting
+Standing	Debout (debou)
+Debout (debou)	Standing
+To cut	Pour couper (ceu-pe)
+Pour couper (ceu-pe)	To cut
+Lift	Ascender
+Ascender	Lift
+Balcony	Balcon
+Balcon	Balcony
+Stairs	Escalier
+Escalier	Stairs
+attic	grenier
+grenier	attic
+appartment builiding	immeuble
+immeuble	appartment builiding
+front door	"porte d'entrée"
+"porte d'entrée"	front door
+bathroom	salle de bains
+salle de bains	bathroom
+bath	baignoire
+baignoire	bath
+shower	douche
+douche	shower
+shelf	étagère
+étagère	shelf
+bed	lit
+lit	bed
+coffee table	table basse
+table basse	coffee table
+painting	tableau
+tableau	painting
+Hoover	aspirateur
+aspirateur	Hoover
+dish washer	lave vaisselle
+lave vaisselle	dish washer
+Washing machine	machine laver
+machine laver	Washing machine
+Hair	cheveux
+cheveux	Hair
+to Dry	a sécher (say-shay)
+a sécher (say-shay)	to Dry
+Outfit	Tenue
+Tenue	Outfit
+To Thank	remerci
+remerci	To Thank
+Since when	depuis quand
+depuis quand	Since when
+how many rooms are there	il y a combien de pièces
+il y a combien de pièces	how many rooms are there
+What floor?	"C'est a quel étage"
+"C'est a quel étage"	What floor?
+Its for how many people?	"C'est pour combien de personnes"
+"C'est pour combien de personnes"	Its for how many people?
+Is it free in xxx	Est-il libre en xxx
+Est-il libre en xxx	Is it free in xxx
+I buy	je achète
+je achète	I buy
+you buy	tu achètes / vous achètez
+tu achètes / vous achètez	you buy
+We buy	nous achètons
+nous achètons	We buy
+We bought (PC)	nous avons acheté
+nous avons acheté	We bought (PC)
+I bought (PC)	"J'ai acheté"
+"J'ai acheté"	I bought (PC)
+you bought (PC)	tu as acheté / vous avez acheté
+tu as acheté / vous avez acheté	you bought (PC)
+we bought (imparfait)	nous achetions
+nous achetions	we bought (imparfait)
+i bought (imparfait)	"j' achetais"
+"j' achetais"	i bought (imparfait)
+you bought (imparfait)	tu achetais / vous achetaiez
+tu achetais / vous achetaiez	you bought (imparfait)
+To acquire	acquérir
+acquérir	To acquire
+I aquire	"j'acquiers (aki-air)"
+"j'acquiers (aki-air)"	I aquire
+you acquire	tu acquiers / vous acquérez
+tu acquiers / vous acquérez	you acquire
+we acquire	nous acquérons (akay-ron)
+nous acquérons (akay-ron)	we acquire
+I aquired (PC)	"j'ai acquis (a-key)"
+"j'ai acquis (a-key)"	I aquired (PC)
+you acquired (PC)	tu as acquis / vous avez acquis
+tu as acquis / vous avez acquis	you acquired (PC)
+we aquired (PC)	nous avons acquis
+nous avons acquis	we aquired (PC)
+I acquired (Imparfait)	"j'acquérais"
+"j'acquérais"	I acquired (Imparfait)
+you acquired (Imparfait)	tu acquérais / vous acquéraient
+tu acquérais / vous acquéraient	you acquired (Imparfait)
+we acquired (Imparfait)	nous acquérions
+nous acquérions	we acquired (Imparfait)
+To drive	Conduire
+Conduire	To drive
+I drive	je conduis
+je conduis	I drive
+you drive	tu conduis / vous conduisez&nbsp;
+tu conduis / vous conduisez&nbsp;	you drive
+we drive	nous conduisons
+nous conduisons	we drive
+I drove (PC)	"j'ai conduit"
+"j'ai conduit"	I drove (PC)
+you drove PC	tu as conduit / vous avez conduit
+tu as conduit / vous avez conduit	you drove PC
+Memory	souvenir
+souvenir	Memory
+To lend	prêter
+prêter	To lend
+marque	brand
+brand	marque
+headache	mal à la tête
+mal à la tête	headache
+to rest	reposer
+reposer	to rest
+To attach /tie up	Attacher
+Attacher	To attach /tie up
+Loyalty	Le fidéliser
+Le fidéliser	Loyalty
+To forget	oublier
+oublier	To forget
+The study of...	"L'etude des..."
+"L'etude des..."	The study of...
+To believe	croire
+croire	To believe
+To struggle	lutter
+lutter	To struggle
+To support	soutenir
+soutenir	To support
+To wonder	se demander
+se demander	To wonder
+To hide	Cacher
+Cacher	To hide
+Theif	le voleur
+le voleur	Theif
+Any	Aucune
+Aucune	Any
+To play / to enjoy oneself	"s'amuser"
+"s'amuser"	To play / to enjoy oneself
+i play / i enjoy myself	"je m'amuse"
+"je m'amuse"	i play / i enjoy myself
+you play / enjoy yourself	"tu t'amuses / vous vous amusez"
+"tu t'amuses / vous vous amusez"	you play / enjoy yourself
+we play / enjoy ourselfs	nous nous amusons
+nous nous amusons	we play / enjoy ourselfs
+I played / enjoyed myself	je me suis amusé
+je me suis amusé	I played / enjoyed myself
+you played / enjoyed yourself (PC)	"tu t'est amusé / vous vous etes amusé"
+"tu t'est amusé / vous vous etes amusé"	you played / enjoyed yourself (PC)
+we played / enjoyed myself (PC)	nous nous sommes amusés
+nous nous sommes amusés	we played / enjoyed myself (PC)
+I played / enjoyed myself (Imparfait)	"je m'amusais"
+"je m'amusais"	I played / enjoyed myself (Imparfait)
+you played / enjoyed myself (Imparfait)	"tu t'amusais / vous vous amusiez"
+"tu t'amusais / vous vous amusiez"	you played / enjoyed myself (Imparfait)
+we played / enjoyed myself (Imparfait)	nous nous amusions
+nous nous amusions	we played / enjoyed myself (Imparfait)
+the sheep	le mouton
+le mouton	the sheep
+the tail	la queue
+la queue	the tail
+the pedal	la pédale
+la pédale	the pedal
+Cycle path	la piste cyclable
+la piste cyclable	Cycle path
+First (I first do....)	"D'abord"
+"D'abord"	First (I first do....)
+i reach	"j'atteins (a-tan)"
+"j'atteins (a-tan)"	i reach
+you reach	tu atteins / vous atteignez (atten-gye)
+tu atteins / vous atteignez (atten-gye)	you reach
+we reach	nous atteignons
+nous atteignons	we reach
+i reached (PC)	"j'ai atteint (a-tan)"
+"j'ai atteint (a-tan)"	i reached (PC)
+you reached (PC)	tu as atteint / vous avez atteint
+tu as atteint / vous avez atteint	you reached (PC)
+we reached (PC)	nous avons atteint
+nous avons atteint	we reached (PC)
+I reached (Imparfait)	"j'atteignais (atten-gyay)"
+"j'atteignais (atten-gyay)"	I reached (Imparfait)
+you reached (imparfait)	"t'atteingnais / vous atteigniez"
+"t'atteingnais / vous atteigniez"	you reached (imparfait)
+we reached (imparfait)	nous atteignions
+nous atteignions	we reached (imparfait)
+I run	je cours (coo-ur)
+je cours (coo-ur)	I run
+you run	tu cours / vous courez
+tu cours / vous courez	you run
+we run	nous courons
+nous courons	we run
+I ran (PC)	"j'ai couru"
+"j'ai couru"	I ran (PC)
+you ran (PC)	tu as couru / vous avez couru
+tu as couru / vous avez couru	you ran (PC)
+we ran (PC)	nous avons couru
+nous avons couru	we ran (PC)
+I ran (imparfait)	je courais
+je courais	I ran (imparfait)
+you ran (imparfait)	tu courais / vous couriez
+tu courais / vous couriez	you ran (imparfait)
+we ran (imparfait)	nous courions
+nous courions	we ran (imparfait)
+To laugh	rire
+rire	To laugh
+To hold / keep	Tenir
+Tenir	To hold / keep
+Sentence	phrase
+phrase	Sentence
+Wheel	Roue
+Roue	Wheel
+Stearing wheel	roue directrice
+roue directrice	Stearing wheel
+bone	os
+os	bone
+My pocket	ma poche
+ma poche	My pocket
+torn / ripped	déchirée (de-shery)
+déchirée (de-shery)	torn / ripped
+suspicion	soupçon
+soupçon	suspicion
+To whistle	siffler (sif-lay)
+siffler (sif-lay)	To whistle
+Should	Devrait
+Devrait	Should
+To be feeling	Se sentir
+Se sentir	To be feeling
+Knee	le genou (zjen-ou)
+le genou (zjen-ou)	Knee
+To smell	sentir (same as to feel)
+sentir (same as to feel)	To smell
+I become	je deviens
+je deviens	I become
+you become	tu deviens / vous devenez
+tu deviens / vous devenez	you become
+we become	nous duvenons
+nous duvenons	we become
+I became (PC)	je suis devenu
+je suis devenu	I became (PC)
+you became (PC)	tu es devenu / vous etes devenu
+tu es devenu / vous etes devenu	you became (PC)
+we became (PC)	nous sommes devenus
+nous sommes devenus	we became (PC)
+I became (Imparfait)	je devenais
+je devenais	I became (Imparfait)
+you became (Imparfait)	tu devenais / vous deveniez
+tu devenais / vous deveniez	you became (Imparfait)
+Annual subscription	Abonnement annuel
+Abonnement annuel	Annual subscription
+Fog	le brouillard
+le brouillard	Fog
+the sky	Le ciel
+Le ciel	the sky
+east	"l'est"
+"l'est"	east
+cloud	le nuage
+le nuage	cloud
+the west	"l'ouest"
+"l'ouest"	the west
+the wind	le vent
+le vent	the wind
+ice	la glace
+la glace	ice
+snow	la neige
+la neige	snow
+rain	la pluie
+la pluie	rain
+screw driver	le tournevis
+le tournevis	screw driver
+Spanner	la clef
+la clef	Spanner
+saw (tool)	la scie
+la scie	saw (tool)
+Pliers	les pinces (pense)
+les pinces (pense)	Pliers
+mast	le mât (ma)
+le mât (ma)	mast
+last week	la semaine dernière
+la semaine dernière	last week
+next week	la semaine prochaine
+la semaine prochaine	next week
+last	dernier
+dernier	last
+I bring (people/animals/vehicles)	"j'amène"
+"j'amène"	I bring (people/animals/vehicles)
+you bring (people/animals/vehicles)	tu amène / vous amenez
+tu amène / vous amenez	you bring (people/animals/vehicles)
+we bring (people/animals/vehicles)	nous amenons
+nous amenons	we bring (people/animals/vehicles)
+I believe	je crois
+je crois	I believe
+you believe	tu crois / vous croyez
+tu crois / vous croyez	you believe
+we believe	nous croyons
+nous croyons	we believe
+I believed (PC)	"j'ai cru"
+"j'ai cru"	I believed (PC)
+you believed (PC)	tu as cru / vous avez cru
+tu as cru / vous avez cru	you believed (PC)
+we believed (PC)	nous avons cru
+nous avons cru	we believed (PC)
+i believed (Imparfait)	je croyais
+je croyais	i believed (Imparfait)
+you believed (Imparfait)	tu croyais / vous croyiez
+tu croyais / vous croyiez	you believed (Imparfait)
+we believed (Imparfait)	nous croyions
+nous croyions	we believed (Imparfait)
+Invoice/ bill	la facture
+la facture	Invoice/ bill
+That one	Celui-là
+Celui-là	That one
+To want	Vouloir
+Vouloir	To want
+To prick or bite ones self	Se piquer
+Se piquer	To prick or bite ones self
+To move yourself	Se déplacer
+Se déplacer	To move yourself
+To clean	nettoyer
+nettoyer	To clean
+To clean 	servir
+servir	To clean 
+To sweep	balayer
+balayer	To sweep
+To tidy	Ranger
+Ranger	To tidy
+To order (categorise)	 Ordener
+ Ordener	To order (categorise)
+To lighten/illuminate	Éclairer
+Éclairer	To lighten/illuminate
+To throw	Jetter
+Jetter	To throw
+To dry yourself	Se sécher
+Se sécher	To dry yourself
+To try	"S'essayer"
+"S'essayer"	To try
+To taste	Goûter
+Goûter	To taste
+To die	Mourir
+Mourir	To die
+To fall	Tomber
+Tomber	To fall
+To lower	Baisser
+Baisser	To lower
+To cough	Tousser
+Tousser	To cough
+To expose	"S'exposer"
+"S'exposer"	To expose
+To apply	Appliquer
+Appliquer	To apply
+To apply ( for a job)	Postuler
+Postuler	To apply ( for a job)
+I speak fluently	Je parle couramment
+Je parle couramment	I speak fluently
+Daughter in law	La belle fille
+La belle fille	Daughter in law
+Niece	Nièce
+Nièce	Niece
+Nephew	Le neveu
+Le neveu	Nephew
+An account	Un compte
+Un compte	An account
+A screen	Un écran
+Un écran	A screen

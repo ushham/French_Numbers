@@ -1,6 +1,8 @@
-# French (Belgian) number test
+# French (Belgian) listening testing
 
 This is a program to test your listening of numbers on a foreign language. It is currently set up to test you on Belgian numbers (the same as French, but there are different words for 70 and 90).
+
+There are two different tests you can use. Either test yourself for **Number Comprehension**, or **Verb Comprehension**.
 
 ## How to Run
 

@@ -1,6 +1,6 @@
 import argparse
-import number_generator
-import data_analysis
+import Number_reader.number_generator as number_generator
+import Number_reader.data_analysis as data_analysis
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Run french numbers code.')

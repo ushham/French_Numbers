@@ -1,6 +1,6 @@
 import os
 import csv
-import control as ct
+import Number_reader.control as ct
 
 class Make_Audio:
 

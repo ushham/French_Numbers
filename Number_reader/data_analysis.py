@@ -1,9 +1,9 @@
 import numpy as np
-import control as ct
+import Number_reader.control as ct
 from datetime import datetime
 import json
 import os
-import visualisation
+import Number_reader.visualisation as visualisation
 
 class DataAnalysis:
     sec_to_hr = 3600
