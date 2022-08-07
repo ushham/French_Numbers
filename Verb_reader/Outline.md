@@ -3,7 +3,7 @@ This section (Verb comprehension) aims to help you improve listening comprehensi
 
 ## Code outline
 There is a csv that holds:
-| From | To | Recall (eng-frn) | Last Recall |
+| From | To | Recall | Last Recall |
 |---|---|---|---|
 | I am | Je suis | 1 | Datetime(2022. 08, 07)|
 | Je suis | I am | 2 | Datetime(2022. 08, 07)|

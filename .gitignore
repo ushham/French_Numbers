@@ -1,3 +1,4 @@
 frn_venv/
 .DS_Store
 __pycache__/
+Verb_reader/control.py
