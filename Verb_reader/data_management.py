@@ -1,5 +1,3 @@
-from operator import index
-from time import time
 import pandas as pd
 from datetime import datetime
 
@@ -38,6 +36,9 @@ def backup_database(database):
     database.to_csv(ct.database_backup_folder + str(time_stamp) + '.csv', index=False)
     return 0
 
+def update_dataframe(db, row, index):
+    db.iloc[index, :] = row
+    return db
 
 if __name__ == "__main__":
     db = "/Users/ushhamilton/Documents/03_Programming/Python/french_nums/Verb_reader/csv_store/database.csv"

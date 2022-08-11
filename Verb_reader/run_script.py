@@ -9,22 +9,22 @@ def main():
     try:
         while True:
             #Pick question to ask
-            row = rk.return_index(db)
+            row, inx = rk.return_index(db)
             #Ask question
             rd.read_line(row[0])
-            # TODO: Why is answer not being printed?
+
             rd.return_answer(row[0], row[1])
+
             user_score = rd.user_score(row[0])
 
             # Generate new score
             row = rk.update_score(user_score, row)
-            # TODO: Update database
-            print(row)
+            
+            db = dm.update_dataframe(db, row, inx)
  
     except KeyboardInterrupt:
-        return 0
-        # dm.save_database(db)
-        # dm.backup_database(db)
+        dm.save_database(db)
+        dm.backup_database(db)
 
 if __name__ == "__main__":
 

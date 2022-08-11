@@ -1,6 +1,0 @@
-from,to,ask_lang,score,num_reviews,ef,last_recall
-Je suis,I am,fr,0,0.0,2.5,
-I have,J'ai,en,0,0.0,2.5,
-nous sommes,we are,0,0,2.5,,
-we are,nous sommes,0,0,2.5,,
-vous êtes,ye are,0,0,2.5,,

@@ -1,5 +1,6 @@
 import os
 import random
+from urllib import response
 
 def read_line(text):
     voice_type = ['+m2', '+m3','+m7', '+f1', '+f2', '+f3']
@@ -26,13 +27,13 @@ def user_score(line):
     return us
 
 def return_answer(line, answer):
-    answer = input()
+    responce = input()
 
-    if answer != ' ':
+    if responce != ' ':
         read_line(line)
         return_answer(line, answer)
     else:
-        print(str(answer))
+        print(answer)
 
     return 0
 

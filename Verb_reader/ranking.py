@@ -38,7 +38,7 @@ def return_index(df):
     df = df[df.score == np.min(df.score)]
 
     row = np.random.choice(df.index.values, 1)
-    return df.loc[row].values.tolist()[0]
+    return df.loc[row].values.tolist()[0], row
 
 
 if __name__ == "__main__":
